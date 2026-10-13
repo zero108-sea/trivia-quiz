@@ -1,0 +1,562 @@
+[
+  {
+    "id": "history-01",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "조선을 건국하고 첫 번째 왕(태조)이 된 인물은 누구일까요?",
+    "choices": [
+      "이성계",
+      "왕건",
+      "이방원",
+      "정도전"
+    ],
+    "answerIndex": 0,
+    "explanation": "이성계는 1392년 고려를 무너뜨리고 조선을 건국했습니다."
+  },
+  {
+    "id": "history-02",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "훈민정음을 창제한 조선의 왕은 누구일까요?",
+    "choices": [
+      "태종",
+      "세종",
+      "세조",
+      "정조"
+    ],
+    "answerIndex": 1,
+    "explanation": "세종은 1443년 훈민정음을 창제하고 1446년 반포했습니다."
+  },
+  {
+    "id": "history-03",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "918년 고려를 건국한 인물은 누구일까요?",
+    "choices": [
+      "궁예",
+      "견훤",
+      "왕건",
+      "이성계"
+    ],
+    "answerIndex": 2,
+    "explanation": "왕건은 궁예를 몰아내고 918년 고려를 세웠습니다."
+  },
+  {
+    "id": "history-04",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "임진왜란 때 한산도 대첩을 승리로 이끈 장수는 누구일까요?",
+    "choices": [
+      "권율",
+      "김시민",
+      "곽재우",
+      "이순신"
+    ],
+    "answerIndex": 3,
+    "explanation": "이순신은 1592년 한산도 앞바다에서 학익진으로 일본 수군을 크게 물리쳤습니다."
+  },
+  {
+    "id": "history-05",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "고구려, 백제, 신라 중 삼국 통일을 이룬 나라는 어디일까요?",
+    "choices": [
+      "신라",
+      "고구려",
+      "백제",
+      "가야"
+    ],
+    "answerIndex": 0,
+    "explanation": "신라는 당과 연합해 백제와 고구려를 멸망시키고 676년 삼국 통일을 이루었습니다."
+  },
+  {
+    "id": "history-06",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "3·1 운동이 일어난 해는 언제일까요?",
+    "choices": [
+      "1910년",
+      "1919년",
+      "1929년",
+      "1945년"
+    ],
+    "answerIndex": 1,
+    "explanation": "3·1 운동은 1919년 3월 1일 일제의 식민 통치에 맞서 전국에서 일어난 독립 만세 운동입니다."
+  },
+  {
+    "id": "history-07",
+    "category": "history",
+    "difficulty": "hard",
+    "question": "1919년 4월, 대한민국 임시정부가 수립된 도시는 어디일까요?",
+    "choices": [
+      "베이징",
+      "충칭",
+      "상하이",
+      "도쿄"
+    ],
+    "answerIndex": 2,
+    "explanation": "대한민국 임시정부는 1919년 4월 11일 중국 상하이 프랑스 조계에서 수립되었습니다."
+  },
+  {
+    "id": "history-08",
+    "category": "history",
+    "difficulty": "easy",
+    "question": "고조선을 세운 것으로 전해지는 인물은 누구일까요?",
+    "choices": [
+      "주몽",
+      "박혁거세",
+      "온조",
+      "단군왕검"
+    ],
+    "answerIndex": 3,
+    "explanation": "삼국유사에 따르면 단군왕검이 고조선을 건국했습니다."
+  },
+  {
+    "id": "history-09",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "조선 정조 때 수원에 쌓은 성으로, 유네스코 세계유산에 등재된 곳은 어디일까요?",
+    "choices": [
+      "수원 화성",
+      "남한산성",
+      "북한산성",
+      "행주산성"
+    ],
+    "answerIndex": 0,
+    "explanation": "수원 화성은 정조의 명으로 1796년 완공되었고 1997년 세계유산에 등재되었습니다."
+  },
+  {
+    "id": "history-10",
+    "category": "history",
+    "difficulty": "medium",
+    "question": "6·25 전쟁이 일어난 해는 언제일까요?",
+    "choices": [
+      "1945년",
+      "1950년",
+      "1948년",
+      "1953년"
+    ],
+    "answerIndex": 1,
+    "explanation": "6·25 전쟁은 1950년 6월 25일 시작되어 1953년 정전 협정으로 멈췄습니다."
+  },
+  {
+    "id": "cs-01",
+    "category": "cs",
+    "difficulty": "easy",
+    "question": "CPU는 무엇의 약자일까요?",
+    "choices": [
+      "Central Program Utility",
+      "Central Processing Unit",
+      "Computer Personal Unit",
+      "Control Processing Utility"
+    ],
+    "answerIndex": 1,
+    "explanation": "CPU(Central Processing Unit)는 명령어를 해석하고 실행하는 중앙 처리 장치입니다."
+  },
+  {
+    "id": "cs-02",
+    "category": "cs",
+    "difficulty": "easy",
+    "question": "오늘날 쓰는 컴퓨터에서 1바이트는 몇 비트일까요?",
+    "choices": [
+      "4비트",
+      "16비트",
+      "8비트",
+      "32비트"
+    ],
+    "answerIndex": 2,
+    "explanation": "초기에는 기종마다 달랐지만, 오늘날 표준 1바이트는 8비트로 256가지 값을 표현합니다."
+  },
+  {
+    "id": "cs-03",
+    "category": "cs",
+    "difficulty": "medium",
+    "question": "HTML은 무엇의 약자일까요?",
+    "choices": [
+      "HyperText Markup Language",
+      "High Text Machine Language",
+      "HyperTool Multi Language",
+      "Home Text Markup Language"
+    ],
+    "answerIndex": 0,
+    "explanation": "HTML(HyperText Markup Language)은 웹 페이지의 구조를 표현하는 마크업 언어입니다."
+  },
+  {
+    "id": "cs-04",
+    "category": "cs",
+    "difficulty": "medium",
+    "question": "가장 나중에 넣은 데이터를 가장 먼저 꺼내는(LIFO) 자료구조는 무엇일까요?",
+    "choices": [
+      "큐",
+      "연결 리스트",
+      "해시 테이블",
+      "스택"
+    ],
+    "answerIndex": 3,
+    "explanation": "스택은 후입선출(LIFO), 큐는 선입선출(FIFO) 구조입니다."
+  },
+  {
+    "id": "cs-05",
+    "category": "cs",
+    "difficulty": "medium",
+    "question": "2진수 1010을 10진수로 바꾸면 얼마일까요?",
+    "choices": [
+      "8",
+      "10",
+      "12",
+      "5"
+    ],
+    "answerIndex": 1,
+    "explanation": "1010₂ = 8 + 0 + 2 + 0 = 10입니다."
+  },
+  {
+    "id": "cs-06",
+    "category": "cs",
+    "difficulty": "hard",
+    "question": "정렬된 배열에서 이진 탐색의 최악의 경우 시간 복잡도는 무엇일까요?",
+    "choices": [
+      "O(log n)",
+      "O(n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answerIndex": 0,
+    "explanation": "이진 탐색은 매 단계 탐색 범위를 절반으로 줄이므로 최악의 경우 O(log n)입니다. 첫 비교에서 찾는 최선의 경우는 O(1)입니다."
+  },
+  {
+    "id": "cs-07",
+    "category": "cs",
+    "difficulty": "hard",
+    "question": "HTTPS가 기본으로 사용하는 포트 번호는 무엇일까요?",
+    "choices": [
+      "80",
+      "21",
+      "443",
+      "22"
+    ],
+    "answerIndex": 2,
+    "explanation": "HTTPS는 443번, HTTP는 80번 포트를 기본으로 사용합니다."
+  },
+  {
+    "id": "cs-08",
+    "category": "cs",
+    "difficulty": "easy",
+    "question": "컴퓨터의 주기억장치로 쓰이며, 전원이 꺼지면 저장된 내용이 사라지는 메모리는 무엇일까요?",
+    "choices": [
+      "ROM",
+      "SSD",
+      "하드디스크",
+      "RAM"
+    ],
+    "answerIndex": 3,
+    "explanation": "RAM은 휘발성 메모리로, 전원이 꺼지면 데이터가 사라집니다."
+  },
+  {
+    "id": "cs-09",
+    "category": "cs",
+    "difficulty": "medium",
+    "question": "도메인 이름을 IP 주소로 바꿔 주는 시스템은 무엇일까요?",
+    "choices": [
+      "DNS",
+      "DHCP",
+      "FTP",
+      "SMTP"
+    ],
+    "answerIndex": 0,
+    "explanation": "DNS(Domain Name System)는 example.com 같은 이름을 IP 주소로 변환합니다."
+  },
+  {
+    "id": "cs-10",
+    "category": "cs",
+    "difficulty": "medium",
+    "question": "SQL에서 테이블의 데이터를 조회할 때 쓰는 명령어는 무엇일까요?",
+    "choices": [
+      "INSERT",
+      "SELECT",
+      "UPDATE",
+      "DELETE"
+    ],
+    "answerIndex": 1,
+    "explanation": "SELECT는 조회, INSERT는 추가, UPDATE는 수정, DELETE는 삭제에 쓰입니다."
+  },
+  {
+    "id": "english-01",
+    "category": "english",
+    "difficulty": "medium",
+    "question": "'abundant'의 뜻으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "부족한",
+      "위험한",
+      "풍부한",
+      "조용한"
+    ],
+    "answerIndex": 2,
+    "explanation": "abundant는 '풍부한, 많은'이라는 뜻입니다."
+  },
+  {
+    "id": "english-02",
+    "category": "english",
+    "difficulty": "hard",
+    "question": "'reluctant'의 뜻으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "꺼리는",
+      "열성적인",
+      "믿을 만한",
+      "관련된"
+    ],
+    "answerIndex": 0,
+    "explanation": "reluctant는 '꺼리는, 마지못해 하는'이라는 뜻입니다."
+  },
+  {
+    "id": "english-03",
+    "category": "english",
+    "difficulty": "easy",
+    "question": "동사 'go'의 과거분사형은 무엇일까요?",
+    "choices": [
+      "went",
+      "goed",
+      "going",
+      "gone"
+    ],
+    "answerIndex": 3,
+    "explanation": "go의 변화형은 go - went - gone입니다."
+  },
+  {
+    "id": "english-04",
+    "category": "english",
+    "difficulty": "medium",
+    "question": "빈칸에 알맞은 말은? She has lived here ___ 2015.",
+    "choices": [
+      "for",
+      "since",
+      "during",
+      "while"
+    ],
+    "answerIndex": 1,
+    "explanation": "현재완료에서 시작 시점 앞에는 since, 기간 앞에는 for를 씁니다."
+  },
+  {
+    "id": "english-05",
+    "category": "english",
+    "difficulty": "easy",
+    "question": "'happy'의 반의어는 무엇일까요?",
+    "choices": [
+      "glad",
+      "joyful",
+      "sad",
+      "cheerful"
+    ],
+    "answerIndex": 2,
+    "explanation": "glad, joyful, cheerful은 모두 happy와 비슷한 뜻이고 sad가 반의어입니다."
+  },
+  {
+    "id": "english-06",
+    "category": "english",
+    "difficulty": "easy",
+    "question": "'child'의 복수형은 무엇일까요?",
+    "choices": [
+      "children",
+      "childs",
+      "childes",
+      "childrens"
+    ],
+    "answerIndex": 0,
+    "explanation": "child는 불규칙 복수형으로 children을 씁니다."
+  },
+  {
+    "id": "english-07",
+    "category": "english",
+    "difficulty": "hard",
+    "question": "빈칸에 알맞은 말은? I'm looking forward to ___ you.",
+    "choices": [
+      "see",
+      "saw",
+      "seen",
+      "seeing"
+    ],
+    "answerIndex": 3,
+    "explanation": "look forward to의 to는 전치사이므로 뒤에 동명사(seeing)가 옵니다."
+  },
+  {
+    "id": "english-08",
+    "category": "english",
+    "difficulty": "easy",
+    "question": "'deadline'의 뜻으로 알맞은 것은 무엇일까요?",
+    "choices": [
+      "사망 원인",
+      "마감 기한",
+      "결승선",
+      "출발 시간"
+    ],
+    "answerIndex": 1,
+    "explanation": "deadline은 일을 끝내야 하는 '마감 기한'을 뜻합니다."
+  },
+  {
+    "id": "english-09",
+    "category": "english",
+    "difficulty": "medium",
+    "question": "무대에 오르는 사람에게 하는 'Break a leg!'의 의미는 무엇일까요?",
+    "choices": [
+      "조심해!",
+      "서둘러!",
+      "행운을 빌어!",
+      "그만해!"
+    ],
+    "answerIndex": 2,
+    "explanation": "Break a leg!는 공연 전 '행운을 빌어!'라는 뜻으로 쓰는 관용 표현입니다."
+  },
+  {
+    "id": "english-10",
+    "category": "english",
+    "difficulty": "easy",
+    "question": "'good'의 비교급은 무엇일까요?",
+    "choices": [
+      "better",
+      "gooder",
+      "more good",
+      "best"
+    ],
+    "answerIndex": 0,
+    "explanation": "good의 변화형은 good - better - best입니다."
+  },
+  {
+    "id": "general-01",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "지름을 기준으로 태양계에서 가장 큰 행성은 무엇일까요?",
+    "choices": [
+      "토성",
+      "목성",
+      "지구",
+      "해왕성"
+    ],
+    "answerIndex": 1,
+    "explanation": "목성의 지름은 지구의 약 11배이며, 질량으로 따져도 태양계 행성 중 가장 큽니다."
+  },
+  {
+    "id": "general-02",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "물의 화학식은 무엇일까요?",
+    "choices": [
+      "CO₂",
+      "O₂",
+      "NaCl",
+      "H₂O"
+    ],
+    "answerIndex": 3,
+    "explanation": "물은 수소 원자 2개와 산소 원자 1개로 이루어진 H₂O입니다."
+  },
+  {
+    "id": "general-03",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "면적을 기준으로 세계에서 가장 넓은 대양은 어디일까요?",
+    "choices": [
+      "태평양",
+      "대서양",
+      "인도양",
+      "북극해"
+    ],
+    "answerIndex": 0,
+    "explanation": "태평양은 지구 표면의 약 3분의 1을 차지하는, 면적이 가장 넓은 대양입니다."
+  },
+  {
+    "id": "general-04",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "올림픽 오륜기의 고리는 모두 몇 개일까요?",
+    "choices": [
+      "4개",
+      "6개",
+      "5개",
+      "7개"
+    ],
+    "answerIndex": 2,
+    "explanation": "오륜기는 다섯 대륙을 상징하는 고리 5개로 이루어져 있습니다."
+  },
+  {
+    "id": "general-05",
+    "category": "general",
+    "difficulty": "hard",
+    "question": "빛의 삼원색이 아닌 것은 무엇일까요?",
+    "choices": [
+      "빨간색",
+      "노란색",
+      "초록색",
+      "파란색"
+    ],
+    "answerIndex": 1,
+    "explanation": "빛의 삼원색은 빨강, 초록, 파랑(RGB)입니다."
+  },
+  {
+    "id": "general-06",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "2026년 현재 발행되는 한국 1만 원권 지폐 앞면의 인물은 누구일까요?",
+    "choices": [
+      "이순신",
+      "이황",
+      "신사임당",
+      "세종대왕"
+    ],
+    "answerIndex": 3,
+    "explanation": "1만 원권에는 세종대왕, 5만 원권에는 신사임당, 1천 원권에는 이황이 있습니다."
+  },
+  {
+    "id": "general-07",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "1기압에서 물이 끓는 온도는 섭씨 약 몇 도일까요?",
+    "choices": [
+      "100도",
+      "90도",
+      "120도",
+      "80도"
+    ],
+    "answerIndex": 0,
+    "explanation": "1기압에서 물은 약 100도(정밀 측정값 99.97도)에서 끓고 0도에서 업니다."
+  },
+  {
+    "id": "general-08",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "'모나리자'를 그린 화가는 누구일까요?",
+    "choices": [
+      "미켈란젤로",
+      "레오나르도 다빈치",
+      "라파엘로",
+      "렘브란트"
+    ],
+    "answerIndex": 1,
+    "explanation": "모나리자는 레오나르도 다빈치의 작품으로, 파리 루브르 박물관에 있습니다."
+  },
+  {
+    "id": "general-09",
+    "category": "general",
+    "difficulty": "medium",
+    "question": "북반구에서 1년 중 낮이 가장 긴 날은 언제일까요?",
+    "choices": [
+      "동지",
+      "춘분",
+      "하지",
+      "추분"
+    ],
+    "answerIndex": 2,
+    "explanation": "하지(6월 21일 무렵)는 낮이 가장 길고, 동지(12월 22일 무렵)는 밤이 가장 깁니다."
+  },
+  {
+    "id": "general-10",
+    "category": "general",
+    "difficulty": "easy",
+    "question": "해발 고도 기준으로 세계에서 가장 높은 산은 무엇일까요?",
+    "choices": [
+      "K2",
+      "킬리만자로산",
+      "백두산",
+      "에베레스트산"
+    ],
+    "answerIndex": 3,
+    "explanation": "2020년 네팔과 중국의 공동 측량 결과, 에베레스트산은 해발 8,848.86m로 세계에서 가장 높은 산입니다."
+  }
+]
